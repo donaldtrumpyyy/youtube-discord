@@ -1,0 +1,25 @@
+{
+  "name": "youtube-discord",
+  "version": "1.0.0",
+  "description": "Download your youtube videos fast and simply.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Corentin de Maupeou",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "firebase": "^7.24.0",
+    "youtube-dl": "^3.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donaldtrumpyyy/youtube-discord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/donaldtrumpyyy/youtube-discord/issues"
+  },
+  "homepage": "https://github.com/donaldtrumpyyy/youtube-discord#readme"
+}
